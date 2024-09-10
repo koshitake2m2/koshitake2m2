@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ### AtCoder
 
-[![Rating](https://badgen.org/img/atcoder/takeshi33333/rating/algorithm?style=flat)](https://atcoder.jp/users/takeshi33333?contestType=algo)
+[![Rating](https://badgen.org/img/atcoder/koshitake2m2/rating/algorithm?style=flat)](https://atcoder.jp/users/koshitake2m2?contestType=algo)
 
